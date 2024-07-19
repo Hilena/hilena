@@ -3,7 +3,7 @@
 
 ## About Me
 - 🌟 **Data Enthusiast**
-- 🌱 Focused on advancing my skills in Data Engineering and Database Management
+- 🌱 Focused on advancing my skills in Machine Learning
 - 🎓 **B.Sc. in Data Science**, Colorado State University
 - 🌍 Based in Philadelphia, PA
 - 🌿 **Nature lover** and **hiking enthusiast**
