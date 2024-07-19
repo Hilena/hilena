@@ -15,11 +15,6 @@
 - **Tools:** Git, Google Cloud Platform, VS Code, Visual Studio, IntelliJ, Eclipse
 - **Libraries:** pandas, NumPy, Matplotlib
 
-## 💼 Experience
-- **Undergraduate Teaching Assistant**, CSU (Jan 2024 – Present)
-- **Data Analyst Intern**, Haron Computer PLC (Oct 2023 - May 2024)
-- **Development Team Assistant**, CSU (Jan 2022 - Aug 2022)
-
 ## 📚 Projects
 ### [🌿 Air Quality Trends](https://github.com/yourusername/air-quality-trends)
 - Predictive modeling on 40 years of AQI data using Auto-ARIMA, ARIMAX, and XGBoost.
