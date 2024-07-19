@@ -15,16 +15,6 @@
 - **Tools:** Git, Google Cloud Platform, VS Code, Visual Studio, IntelliJ, Eclipse
 - **Libraries:** pandas, NumPy, Matplotlib
 
-## 📚 Projects
-### [🌿 Air Quality Trends](https://github.com/yourusername/air-quality-trends)
-- Predictive modeling on 40 years of AQI data using Auto-ARIMA, ARIMAX, and XGBoost.
-
-### [🏈 NFL Big Data Bowl 2023](https://github.com/yourusername/nfl-big-data-bowl)
-- Ensemble model for game outcome predictions with R-based visualizations.
-
-### [🛒 Store Sales Forecasting](https://github.com/yourusername/store-sales-forecasting)
-- Time series forecasting using ARIMA and Prophet, improving accuracy by 20%.
-
 ## 📊 GitHub Stats
 ![Hilena's GitHub stats](https://github-readme-stats.vercel.app/api?username=hilena&show_icons=true&theme=radical)
 
