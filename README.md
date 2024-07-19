@@ -1,7 +1,7 @@
 
-# Hi there 👋, Welcome to my Github!
+# Hi there 👋, 
 
-![Nature Lover](link-to-your-cute-banner-image)
+# Welcome to my Github!
 
 ## About Me
 - 🌟 **Data Enthusiast**
