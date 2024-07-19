@@ -1,8 +1,7 @@
 
 # Hi there 👋, 
 
-# Welcome to my Github!
-
+# I'm Hilena Shekour! Welcome to my Github! ⚡️
 ## About Me
 - 🌟 **Data Enthusiast**
 - 🌱 Currently learning the basics of **Data Engineering/Database Management**
