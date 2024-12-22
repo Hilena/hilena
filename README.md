@@ -1,5 +1,4 @@
-# 🌸 Hi, I'm Hilena Shekour 🌸
-
+# Hi, I'm Hilena Shekour 👋🏾
 ## About Me
 - 🌟 **Data Enthusiast**
 - 🌱 Focused on advancing my skills in Machine Learning
