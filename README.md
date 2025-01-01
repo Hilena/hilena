@@ -11,8 +11,6 @@
 - **Tools:** Git, Google Cloud Platform, VS Code, Visual Studio, IntelliJ, Eclipse
 - **Libraries:** pandas, NumPy, Matplotlib
 
-## 📊 GitHub Stats
-![Hilena's GitHub stats](https://github-readme-stats.vercel.app/api?username=hilena&show_icons=true&theme=radical)
 
 ## 🌐 Connect with Me
 - [LinkedIn](https://linkedin.com/in/hilenashekour)
